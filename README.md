@@ -31,7 +31,7 @@ struct binary_tree_s
 		typedef struct binary_tree_s heap_t;
 		```
 
-Function Prototypes
+### Function Prototypes
 
 | File                             | Prototype                                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------------------------ |
