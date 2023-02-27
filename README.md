@@ -68,3 +68,6 @@ typedef struct binary_tree_s heap_t;
 | `120-binary_tree_is_avl.c`       | `int binary_tree_is_avl(const binary_tree_t *tree);`                                             |
 | `121-avl_insert.c`               | `avl_t *avl_insert(avl_t **tree, int value);`                                                    |
 | `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`
+
+## AUTHOR :Pen:
+ * Chibuzo Ashiegbu
